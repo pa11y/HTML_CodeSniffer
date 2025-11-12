@@ -27,11 +27,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/squizlabs/HTML_CodeSniffer.git"
+    "url": "https://github.com/pa11y/HTML_CodeSniffer.git"
   },
   "author": "Squiz",
   "bugs": {
-    "url": "https://github.com/squizlabs/HTML_CodeSniffer/issues"
+    "url": "https://github.com/pa11y/HTML_CodeSniffer/issues"
   },
   "homepage": "http://squizlabs.github.io/HTML_CodeSniffer/",
   "devDependencies": {
